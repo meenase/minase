@@ -1,7 +1,7 @@
 ### Hi there, I'm minase! 👋
 
 [![Website](https://img.shields.io/badge/My%20Website-41.2k-red?style=for-the-badge&logo=internetexplorer)](https://minase.neocities.org/)
-[![Twitter](https://img.shields.io/badge/Twitter-956-white?style=for-the-badge&logo=twitter)](https://twitter.com/nomimugen)
+[![Twitter](https://img.shields.io/badge/Twitter-956-white?style=for-the-badge&logo=twitter)](https://twitter.com/minasemugen)
 
 ---
 
@@ -13,9 +13,9 @@
 
 ## 🌐 My Socials:
 
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://nayuki.neocities.org/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nomimugen)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@0xNomi)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://minase.neocities.org/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/minasemugen)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@0xMinase)
 
 ## 🛠️ Languages and Tools:
 
